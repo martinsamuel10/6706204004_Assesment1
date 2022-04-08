@@ -1,1 +1,2 @@
-# 6706204004_Assesment1
+Nama  : Martin Samuel
+NIM   : 6706204004
